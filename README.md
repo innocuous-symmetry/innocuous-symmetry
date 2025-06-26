@@ -1,7 +1,5 @@
 # Mikayla Dobson | Software Engineer
 
-[![My Skills](https://skills.thijs.gg/icons?i=ts,docker,go,cs,mongodb,postgres,nodejs,py,nextjs,react,redis)](https://skills.thijs.gg)
-
 Hello! Thanks for checking out my Github profile! I am a full-stack software engineer based in Nashville, TN.
 
 ## Some ways I have contributed to recent projects:
@@ -13,8 +11,8 @@ Hello! Thanks for checking out my Github profile! I am a full-stack software eng
 
 ## What I'm working on now:
 
-- Building [Subsequent](https://subsequent.media), a toolkit for creating, sharing, and consuming procedurally generated music (Typescript, NPM)
-- Building [Unbinder](https://github.com/innocuous-symmetry/unbinder), a flexible home server for creating and managing a self-hosted, searchable data store (ASP.NET core)
+- Building [Rooted](https://rooted.mikayla.dev), an event tracker for keeping track of your habits on a rolling basis (TypeScript, C#)
+- Building [Subsequent](https://subsequent.media), a toolkit for creating, sharing, and consuming procedurally generated music (TypeScript, NPM)
 - Learning about: C#, ASP.NET core; cloud computing with AWS and Azure; domain-driven design and clean architecture
 
 Check out:
